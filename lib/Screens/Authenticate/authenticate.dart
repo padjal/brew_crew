@@ -4,8 +4,6 @@ import 'package:flutter/material.dart';
 
 class Authenticate extends StatefulWidget {
 
-  final String name = 'Pavel';
-
   @override
   _AuthenticateState createState() => _AuthenticateState();
 }
